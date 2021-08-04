@@ -1323,5 +1323,15 @@
   "Swaps & Liquidity": "Swaps & Liquidity",
   "Setting a high slippage tolerance can help transactions succeed, but you may not get such a good price. Use with caution.": "Setting a high slippage tolerance can help transactions succeed, but you may not get such a good price. Use with caution.",
   "Bypasses confirmation modals and allows high slippage trades. Use at your own risk.": "Bypasses confirmation modals and allows high slippage trades. Use at your own risk.",
-  "Fun sounds to make a truly immersive pancake-flipping trading experience": "Fun sounds to make a truly immersive pancake-flipping trading experience"
+  "Fun sounds to make a truly immersive pancake-flipping trading experience": "Fun sounds to make a truly immersive pancake-flipping trading experience",
+  "User": "User",
+  "Net Winnings (BNB)": "Net Winnings (BNB)",
+  "Win Rate": "Win Rate",
+  "Rounds Won": "Rounds Won",
+  "Rank By": "Rank By",
+  "Net Winnings": "Net Winnings",
+  "Total Winnings": "Total Winnings",
+  "Total Bets": "Total Bets",
+  "All Others": "All Others",
+  "%num%m": "%num%m"
 }
