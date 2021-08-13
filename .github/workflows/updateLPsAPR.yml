@@ -1,10 +1,6 @@
 name: Fetch and update LP APRs
 
-on:
-  schedule:
-    # 23:15 UTC
-    # GitHub Actions might be delayed if time is at exact hour
-    - cron: '15 23 * * *'
+on: push
 
 jobs:
   updateLPsAPRs:
